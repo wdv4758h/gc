@@ -1,0 +1,5 @@
+- mark-sweep
+- mark-compact
+- copying
+- reference counting
+- generational
